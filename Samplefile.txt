@@ -1,0 +1,2 @@
+This is a sample file.
+To find the long, short words and average length of the words.
